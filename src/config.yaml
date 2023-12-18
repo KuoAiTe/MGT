@@ -1,0 +1,8 @@
+exp:
+    splitter:
+        n_splits: 5
+        test_size: 0.2
+        random_state: 42
+    training:
+        batch_size: 64
+        max_epochs: 100
